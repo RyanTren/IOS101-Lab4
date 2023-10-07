@@ -17,6 +17,7 @@
 		997BF60C29D4838E0099F2B4 /* CloudCastUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997BF60B29D4838E0099F2B4 /* CloudCastUITests.swift */; };
 		997BF60E29D4838E0099F2B4 /* CloudCastUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997BF60D29D4838E0099F2B4 /* CloudCastUITestsLaunchTests.swift */; };
 		99E9824929D7944B0084E9EB /* CurrentWeatherForecast.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99E9824829D7944B0084E9EB /* CurrentWeatherForecast.swift */; };
+		A502EE942AD1CF870021163D /* WeatherForecastService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A502EE932AD1CF870021163D /* WeatherForecastService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		997BF60B29D4838E0099F2B4 /* CloudCastUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudCastUITests.swift; sourceTree = "<group>"; };
 		997BF60D29D4838E0099F2B4 /* CloudCastUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudCastUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		99E9824829D7944B0084E9EB /* CurrentWeatherForecast.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentWeatherForecast.swift; sourceTree = "<group>"; };
+		A502EE932AD1CF870021163D /* WeatherForecastService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherForecastService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				997BF5EA29D4838D0099F2B4 /* AppDelegate.swift */,
 				997BF5EC29D4838D0099F2B4 /* SceneDelegate.swift */,
 				997BF5EE29D4838D0099F2B4 /* ForecastViewController.swift */,
+				A502EE932AD1CF870021163D /* WeatherForecastService.swift */,
 				99E9824829D7944B0084E9EB /* CurrentWeatherForecast.swift */,
 				997BF5F029D4838D0099F2B4 /* Main.storyboard */,
 				997BF5F329D4838E0099F2B4 /* Assets.xcassets */,
@@ -263,6 +266,7 @@
 			files = (
 				997BF5EF29D4838D0099F2B4 /* ForecastViewController.swift in Sources */,
 				997BF5EB29D4838D0099F2B4 /* AppDelegate.swift in Sources */,
+				A502EE942AD1CF870021163D /* WeatherForecastService.swift in Sources */,
 				997BF5ED29D4838D0099F2B4 /* SceneDelegate.swift in Sources */,
 				99E9824929D7944B0084E9EB /* CurrentWeatherForecast.swift in Sources */,
 			);
